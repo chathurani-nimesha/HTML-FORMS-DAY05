@@ -22,3 +22,21 @@ console.log(typeof isAfterAl);
 console.log(typeof customers);
 console.log(typeof customer);
 console.log(typeof salary);
+
+//=====================================
+//          js oprators
+//=====================================
+
+//01. Arithmetic operators
+//---------------------------
+
+// + - * / 
+
+let x=10;
+let y=20;
+let z= x+y;
+
+console.log(z);
+
+
+

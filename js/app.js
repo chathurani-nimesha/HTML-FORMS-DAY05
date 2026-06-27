@@ -39,4 +39,25 @@ let z= x+y;
 console.log(z);
 
 
+//02. Comparison operators(Important)
+//------------------------------------
+
+// >     <  <==   >==   !=    ==
+
+let l=10;
+let m="10";
+
+console.log(l==m); // true
+
+//why this is true????
+// m is a string. and l is a number. JS doesnot have type safety. here,
+// does not consider the value only. because the doesnot have type safety
+
+// to check value with the type use === (triple equal)
+
+console.log(l === m); //this only have JS interview qs.......
+
+
+
+
 

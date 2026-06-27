@@ -57,7 +57,22 @@ console.log(l==m); // true
 
 console.log(l === m); //this only have JS interview qs.......
 
+//03. logical operators
+//-----------------------------
+
+// &&   ,   ||    ,  !
+
+if(true && true){
+    console.log("true");
+}else{
+    console.log("False");
+}
 
 
+if (!false) {
+    console.log("True");
+} else {
+    console.log("False");
+}
 
 

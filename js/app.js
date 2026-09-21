@@ -297,4 +297,8 @@ let customer = {
 
 console.log(customer);
 
+//object orientation
+//--------------------
+//do programming with object 
+
 

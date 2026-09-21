@@ -13,14 +13,14 @@ let name="Chathu"
 let age=23;
 let isAfterAl=true;
 let customers=[]; // Array
-let customer ={};  //object
+//let customer ={};  //object
 let salary =7500.0;
 
 console.log(typeof name);
 console.log(typeof age);
 console.log(typeof isAfterAl);
 console.log(typeof customers);
-console.log(typeof customer);
+//console.log(typeof customer);
 console.log(typeof salary);
 
 //=====================================
@@ -266,6 +266,9 @@ for(let i=0;i<10;i++){
 // let result = add(10, 20);
 // console.log(result);
 
+//-----------------------------------------
+//js has the dynamic type
+//===========================================
 
 // public static String add(int x, int y) {
 //     return x + y;
